@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Custom matrix green selection color */
+::selection {
+  background-color: #22c55e;
+  color: #111827;
+}
